@@ -36,7 +36,7 @@ void convertToLower(char* cString) {
     }
 }
 
-int main_1() {
+int main() {
     char first[20];
     char last[20];
     string finalString;
